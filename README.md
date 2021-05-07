@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on hearts 
-- 📫 How to reach me, maybe message
+- 📫 How to reach me, call me maybe
 
 <!---
 betniss/betniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
